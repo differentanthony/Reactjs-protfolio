@@ -11,7 +11,7 @@ import github from '../access/github.png'
 
 const Skills = () => {
     return (
-        <div name='Skill' className='w-full h-screen bg-[#0a192f] text-[#a188b0]'>
+        <div name='Skill' className='w-full bg-[#0a192f] text-[#a188b0] py-[130px]' >
 
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div>
